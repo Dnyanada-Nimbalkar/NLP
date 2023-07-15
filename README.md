@@ -1,2 +1,2 @@
 # NLP
-Analysis of reviews using NLP and Naive Bayes
+Analysis of restaurant reviews using NLP and Naive Bayes
